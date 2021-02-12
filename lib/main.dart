@@ -40,7 +40,7 @@ void main() async {
     print(e);
   }
 
-  // Store holds your apps State tree
+  // Store holds your apps State tre
   // middleware to handle side-effects are configured here
   final store = new Store<AppState>(
     appReducer,
